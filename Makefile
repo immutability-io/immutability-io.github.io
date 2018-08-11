@@ -25,6 +25,6 @@ spellcheck:
 
 clean:
 	@echo ">> Scrubbing..."
-	@rm -rv _site
+	@rm -rv _site .jekyll-metadata
 
 .PHONY: serve build clean
