@@ -9,6 +9,16 @@ serve:
 		jekyll/jekyll \
 		jekyll serve
 
+build:
+	@echo ">> Building static pages..."
+	@docker run \
+		--interactive \
+		--rm \
+		--tty \
+		--volume "$(shell pwd):/srv/jekyll" \
+		jekyll/jekyll \
+		jekyll build -It
+
 spellcheck:
 	@echo ">> Spell checking..."
 	@misspell -error -source=text .
@@ -17,4 +27,4 @@ clean:
 	@echo ">> Scrubbing..."
 	@rm -rv _site
 
-.PHONY: serve clean
+.PHONY: serve build clean
