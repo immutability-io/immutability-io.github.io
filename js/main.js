@@ -15,10 +15,11 @@ g = {
 $particles = document.getElementById("particles-js");
 
 ready(function () {
-  // Fewer particles on mobiles
-  if (Modernizr.mq('only all and (max-width: 480px)')) {
-    g.value = 20
-  };
+  // Tone down the particles on mobiles
+  var w = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
+  if (w < 480) {
+    g.particles = 20
+  }
 
   // Particles.js by Vincent Garreau
   // https://github.com/VincentGarreau/particles.js/

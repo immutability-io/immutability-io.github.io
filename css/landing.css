@@ -1,5 +1,5 @@
 :root {
-  --head: "Do Hyeon", sans-serif;
+  --head: "Josefin Sans", sans-serif;
   --grey: #5b5b5b;
   --bg1: #6ea8ff;
   --text: black;
@@ -13,20 +13,11 @@
   overflow: hidden;
 }
 
-#particles-js {
-  position: absolute;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background-image: url("");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: 50% 50%;
-  pointer-events: auto;
-}
-
-.title {
+.logo {
   font-family: var(--head);
+  text-rendering: optimizeLegibility;
+  text-transform: uppercase;
+  letter-spacing: -0.05em;
 }
 
 .subtitle {
