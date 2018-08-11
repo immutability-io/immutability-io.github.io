@@ -9,4 +9,12 @@ serve:
 		jekyll/jekyll \
 		jekyll serve
 
-.PHONY: serve
+spellcheck:
+	@echo ">> Spell checking..."
+	@misspell -error -source=text .
+
+clean:
+	@echo ">> Scrubbing..."
+	@rm -rv _site
+
+.PHONY: serve clean
