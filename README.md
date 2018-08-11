@@ -4,7 +4,8 @@ Repository for the static web files making up [Immutability, LLC's website][immu
 
 ## Local Development
 
-Run `jekyll serve` to launch a webserver at `http://127.0.0.1:4000/`. [Jekyll][jekyll] will watch and rebuild the site automatically as you modify the site's source files.
+Run `make serve` to launch a webserver inside of a [Jekyll] Docker container, reachable at `http://127.0.0.1:4000/`. [Jekyll][jekyll] will watch and rebuild the website automatically as you modify the source files. You may need to pull the [Jekyll Docker image][jekyll-docker] first (`docker pull jekyll/jekyll`).
 
 [immutability-io]: https://immutability.io
+[jekyll-docker]: https://hub.docker.com/r/jekyll/jekyll/
 [jekyll]: https://jekyllrb.com/
