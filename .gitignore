@@ -2,3 +2,4 @@
 
 # Built Jekyll site
 _site
+.jekyll-metadata
