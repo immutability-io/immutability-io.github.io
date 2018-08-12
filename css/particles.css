@@ -9,3 +9,20 @@
   background-position: 50% 50%;
   pointer-events: auto;
 }
+
+#particles-js.hide {
+  opacity: 0;
+}
+
+#particles-js.show {
+  -webkit-transition: opacity 400ms;
+  -o-transition: opacity 400ms;
+  transition: opacity 400ms;
+}
+
+#particles-js ~ .hero {
+  pointer-events: none;
+}
+#particles-js ~ .hero a {
+  pointer-events: auto;
+}
