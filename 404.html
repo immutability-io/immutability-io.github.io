@@ -2,8 +2,9 @@
 layout: default
 ---
 
-<!-- Particles -->
-<div id="particles-js" class="hide"></div>
+<script src="./js/main.js" async></script>
+
+{% include particles.html %}
 
 <!-- Hero -->
 <section class="hero is-fullheight is-overlay">
@@ -19,9 +20,6 @@ layout: default
   </div>
 </section>
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css" />
+{% include bulma.html %}
 <link rel="stylesheet" href="./css/landing.css" />
 {% include josefin-sans.html %}
-
-<script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js" async></script>
-<script src="./js/main.js" async></script>
