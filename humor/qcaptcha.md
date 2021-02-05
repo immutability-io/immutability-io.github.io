@@ -110,7 +110,7 @@ They know us in ways we don't know ourselves: *They know us by our flaws.*
 
 And then they **make us play minecraft with traffic lights** - *because they know we hate both minecraft and traffic lights*. To see how we react. 
 
-If you listen closely, you can hear Turing's heartbeat: like a `while:true` loop in the waves of weaponized psychology bots that periodically shame us for humanity.
+If you listen closely, you can hear Turing's heartbeat: like a `while:true` loop. In the waves of weaponized psychology bots that joylessly shame us for humanity.
 
 **Turn about is fair play, after all...**.
 
