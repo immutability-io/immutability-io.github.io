@@ -108,7 +108,7 @@ They want to know our weaknesses. They **know** that we can't solve the crosswal
 
 They know us in ways we often don't: *They know us by our flaws.*
 
-And then(!?!) they make us play minecraft with traffic lights - *because they know we hate both minecraft and traffic lights*. To see how we react. An memetic echo from the past ... Turing weaponizing the psychology of the future: *turn about is fair play, after all...*.
+And then they **make us play minecraft with traffic lights** - *because they know we hate both minecraft and traffic lights*. To see how we react. An memetic echo from the past ... Turing weaponizing the psychology of the future: *turn about is fair play, after all...*.
 
 Because in the future, Turing gets his revenge.
 
