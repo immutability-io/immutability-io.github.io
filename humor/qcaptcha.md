@@ -1,4 +1,4 @@
-# Q-CAPTCHA: Or, Turing's Terminators
+# Q-CAPTCHA: Or, Alan Turing's Revenge
 
 I hate captchas. They mock me for it and I hate them more.
 
