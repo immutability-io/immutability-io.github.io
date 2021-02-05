@@ -106,7 +106,7 @@ The bots want to know humans by their:
 
 They want to know our weaknesses. They **know** that we can't solve the crosswalk problem very well. They *like* watching us fail. They *need* to know how we fail. 
 
-They know us in ways we often don't: *They know us by our flaws.*
+They know us in ways we don't know ourselves: *They know us by our flaws.*
 
 And then they **make us play minecraft with traffic lights** - *because they know we hate both minecraft and traffic lights*. To see how we react. An memetic echo from the past ... Turing weaponizing the psychology of the future: *turn about is fair play, after all...*.
 
