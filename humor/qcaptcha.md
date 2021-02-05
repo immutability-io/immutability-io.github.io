@@ -50,7 +50,7 @@ FaceTime ring... Angry faces.
 
 ![Captchas](./homer.gif)
 
-## A Theory
+## A Q-Theory
 
 It dawned on me gradually but when I finally saw it, it was blinding: 
 
