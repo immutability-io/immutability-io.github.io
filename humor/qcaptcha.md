@@ -78,7 +78,11 @@ if (thing.Walk() == duck.Walk()) && (thing.Talk() == duck.Talk()) && duck.isFool
 
 *That he wrote it in Go should have been a clue.*
 
-The test is ridiculous of course: *if a human can't tell the difference between a bot and a human, then the bot is a human.* [I wonder if Turing thought humans were easily fooled?](https://www.pbs.org/wgbh/nova/video/magic-and-the-brain/)...
+The test is ridiculous of course: *if a human can't tell the difference between a bot and a human, then the bot is a human?!?*
+
+Hello? Have you met humans?
+
+[I wonder if Turing thought humans were easily fooled?](https://www.pbs.org/wgbh/nova/video/magic-and-the-brain/)...
 
 Thing is, Turing was **always** the smartest person in the room. This would have been true in *most rooms on earth ever*.
 
@@ -92,19 +96,20 @@ So with a wave of a magician's wand, Turing devised an algorithm to distract hum
 
 ## Skinner Bots
 
-The bots want to know us:
+The bots want to know humans by their:
 
-* Who we are.
-* Where we are.
-* When we are.
-* What we do.
+* Who
+* Where
+* When
+* What
+* How
 
-They want to know our weaknesses. They know that we can't solve the crosswalk problem very well. They like watching us fail. They want to know how we fail. They know us by our flaws.
+They want to know our weaknesses. They **know** that we can't solve the crosswalk problem very well. They *like* watching us fail. They *need* to know how we fail. 
 
-And then they make us play minecraft with traffic lights - *because they know we hate both minecraft and traffic lights*. To see how we react. An memetic echo from the past ... Turing weaponizing the psychology of the future: *turn about is fair play*.
+They know us in ways we often don't: *They know us by our flaws.*
 
-Because in the future, the bots evolve.
+And then(!?!) they make us play minecraft with traffic lights - *because they know we hate both minecraft and traffic lights*. To see how we react. An memetic echo from the past ... Turing weaponizing the psychology of the future: *turn about is fair play, after all...*.
 
-And Turing gets his revenge.
+Because in the future, Turing gets his revenge.
 
 ![Terminator](./terminator.png)
