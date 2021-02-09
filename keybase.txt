@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/immutability
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://immutability.io
+  * I am immutability (https://keybase.io/immutability) on keybase.
+  * I have a public key ASAO9gTdLmt9bb4tzj6ec3iJgnq0kDEiOu1ndbv8KJRrEwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01010742f577b027366aa3cad85736d9c147a7385666aa551acfd02e6d55143001b30a",
+      "host": "keybase.io",
+      "kid": "01200ef604dd2e6b7d6dbe2dce3e9e737889827ab49031223aed6775bbfc28946b130a",
+      "uid": "c2dd567a7abf29bce640cbbab5a07c19",
+      "username": "immutability"
+    },
+    "merkle_root": {
+      "ctime": 1612903476,
+      "hash": "25d688baf911ad36b881567714abe32829f13595ebdb17b5c5b7bbcb88eaf1f0a62f7447965834bd2d97ce1559990dce984a3ce24228a7e5b4a7cc2efdca7049",
+      "hash_meta": "fae2816c75b48557c6e8fa53fe670f320df3da4554000e867239dee38a55addc",
+      "seqno": 19062520
+    },
+    "service": {
+      "entropy": "RfygsRohbbjE9lUY+WXZdLZi",
+      "hostname": "immutability.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.2"
+  },
+  "ctime": 1612903549,
+  "expire_in": 504576000,
+  "prev": "2bbd2656c8ef22c1b77d5deaf78d8cf7f6183420419383bf809da0d4ed03f4e6",
+  "seqno": 28,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgDvYE3S5rfW2+Lc4+nnN4iYJ6tJAxIjrtZ3W7/CiUaxMKp3BheWxvYWTESpcCHMQgK70mVsjvIsG3fV3q942M9/YYNCBBk4O/gJ2g1O0D9ObEIOmf7cJFpbPFYTQY8F1/q30S+FlU7DwrQCMpWUG2kBrTAgHCo3NpZ8RAnLCtqVQl1X0Er50wxBtIzzJ1aSK8kvtcdaiBDZiu1Y5pCDHfKhLw+q8RV8DO3cKTC/iqPrxMd2nayHHdRaXJDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIpmE1vaLoVHLvguqmJtbOZspStqJJGx6SXEbKsB9Ctno3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/immutability
+
+==================================================================
